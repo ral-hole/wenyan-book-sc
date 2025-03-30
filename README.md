@@ -1,6 +1,8 @@
 <img src="assets/wy-logo.svg" align="right" width="128" height="128"/>
 
-# wenyan-book《文言阴符》
+# wenyan-book《文言阴符》简体中文版
+
+[查看繁体原版](https://book.wy-lang.org/)
 
 *An Introduction to Programming in Wenyan Language*
 
