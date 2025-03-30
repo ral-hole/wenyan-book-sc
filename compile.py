@@ -29,8 +29,8 @@ def organize_markdown_files(root_dir):
             print(f"已处理：{filename} -> {new_dir}/index.md")
 
 if __name__ == "__main__":
-    # 设置要处理的根目录（可根据需要修改）
-    target_directory = "./"  # 修改为你的文件夹路径
+    # 设置要处理的根目录
+    target_directory = "./"
     
     # 执行文件整理
     organize_markdown_files(target_directory)
