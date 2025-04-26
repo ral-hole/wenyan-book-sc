@@ -1,7 +1,5 @@
 <img src="assets/wy-logo.svg" align="right" width="128" height="128"/>
 
-<a href="https://github.com/ral-hole/wenyan-book-sc"><img loading="lazy" decoding="async" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_white_ffffff.png" class="attachment-full size-full" alt="Fork me on GitHub"></a>
-
 # wenyan-book《文言阴符》简体中文版
 
 [查看繁体原版](https://book.wy-lang.org/)
